@@ -14,6 +14,20 @@
 		2DF8C7812BBFCFD300B4D9F1 /* DemoSwiftFacebookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8C7802BBFCFD300B4D9F1 /* DemoSwiftFacebookUITests.swift */; };
 		2DF8C78B2BBFCFD400B4D9F1 /* DemoSwiftFacebookUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8C78A2BBFCFD400B4D9F1 /* DemoSwiftFacebookUIUITests.swift */; };
 		2DF8C78D2BBFCFD400B4D9F1 /* DemoSwiftFacebookUIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8C78C2BBFCFD400B4D9F1 /* DemoSwiftFacebookUIUITestsLaunchTests.swift */; };
+		2DF8C79C2BBFD64100B4D9F1 /* Header.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8C79B2BBFD64100B4D9F1 /* Header.swift */; };
+		2DF8C79F2BBFDD2F00B4D9F1 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8C79E2BBFDD2F00B4D9F1 /* Home.swift */; };
+		2DF8C7A12BBFE78F00B4D9F1 /* StoryCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8C7A02BBFE78F00B4D9F1 /* StoryCard.swift */; };
+		2DF8C7A42BBFE7CC00B4D9F1 /* StoryModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8C7A32BBFE7CC00B4D9F1 /* StoryModel.swift */; };
+		2DF8C7A62BBFEE2F00B4D9F1 /* AddStoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8C7A52BBFEE2F00B4D9F1 /* AddStoryRow.swift */; };
+		2DF8C7A82BBFF8F000B4D9F1 /* Stories.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8C7A72BBFF8F000B4D9F1 /* Stories.swift */; };
+		2DF8C7AE2BC008CF00B4D9F1 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8C7AD2BC008CF00B4D9F1 /* Video.swift */; };
+		2DF8C7B02BC008FC00B4D9F1 /* Marketplace.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8C7AF2BC008FC00B4D9F1 /* Marketplace.swift */; };
+		2DF8C7B22BC0092600B4D9F1 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8C7B12BC0092600B4D9F1 /* Game.swift */; };
+		2DF8C7B42BC0094F00B4D9F1 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8C7B32BC0094F00B4D9F1 /* Menu.swift */; };
+		2DF8C7B72BC00A0600B4D9F1 /* Notification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8C7B62BC00A0600B4D9F1 /* Notification.swift */; };
+		2DF8C7B92BC3A30E00B4D9F1 /* AddPostBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8C7B82BC3A30E00B4D9F1 /* AddPostBar.swift */; };
+		2DF8C7BB2BC3C4D700B4D9F1 /* PostsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8C7BA2BC3C4D700B4D9F1 /* PostsModel.swift */; };
+		2DF8C7BD2BC3C9FC00B4D9F1 /* PostCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8C7BC2BC3C9FC00B4D9F1 /* PostCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +58,20 @@
 		2DF8C7862BBFCFD400B4D9F1 /* DemoSwiftFacebookUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoSwiftFacebookUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DF8C78A2BBFCFD400B4D9F1 /* DemoSwiftFacebookUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoSwiftFacebookUIUITests.swift; sourceTree = "<group>"; };
 		2DF8C78C2BBFCFD400B4D9F1 /* DemoSwiftFacebookUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoSwiftFacebookUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2DF8C79B2BBFD64100B4D9F1 /* Header.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Header.swift; sourceTree = "<group>"; };
+		2DF8C79E2BBFDD2F00B4D9F1 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		2DF8C7A02BBFE78F00B4D9F1 /* StoryCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryCard.swift; sourceTree = "<group>"; };
+		2DF8C7A32BBFE7CC00B4D9F1 /* StoryModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryModel.swift; sourceTree = "<group>"; };
+		2DF8C7A52BBFEE2F00B4D9F1 /* AddStoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddStoryRow.swift; sourceTree = "<group>"; };
+		2DF8C7A72BBFF8F000B4D9F1 /* Stories.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stories.swift; sourceTree = "<group>"; };
+		2DF8C7AD2BC008CF00B4D9F1 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
+		2DF8C7AF2BC008FC00B4D9F1 /* Marketplace.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Marketplace.swift; sourceTree = "<group>"; };
+		2DF8C7B12BC0092600B4D9F1 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
+		2DF8C7B32BC0094F00B4D9F1 /* Menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
+		2DF8C7B62BC00A0600B4D9F1 /* Notification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notification.swift; sourceTree = "<group>"; };
+		2DF8C7B82BC3A30E00B4D9F1 /* AddPostBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddPostBar.swift; sourceTree = "<group>"; };
+		2DF8C7BA2BC3C4D700B4D9F1 /* PostsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostsModel.swift; sourceTree = "<group>"; };
+		2DF8C7BC2BC3C9FC00B4D9F1 /* PostCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +122,7 @@
 		2DF8C76E2BBFCFD200B4D9F1 /* DemoSwiftFacebookUI */ = {
 			isa = PBXGroup;
 			children = (
+				2DF8C7992BBFD5DF00B4D9F1 /* View */,
 				2DF8C76F2BBFCFD200B4D9F1 /* DemoSwiftFacebookUIApp.swift */,
 				2DF8C7712BBFCFD200B4D9F1 /* ContentView.swift */,
 				2DF8C7732BBFCFD300B4D9F1 /* Assets.xcassets */,
@@ -125,6 +154,83 @@
 				2DF8C78C2BBFCFD400B4D9F1 /* DemoSwiftFacebookUIUITestsLaunchTests.swift */,
 			);
 			path = DemoSwiftFacebookUIUITests;
+			sourceTree = "<group>";
+		};
+		2DF8C7992BBFD5DF00B4D9F1 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				2DF8C7A22BBFE7B300B4D9F1 /* Model */,
+				2DF8C79A2BBFD62F00B4D9F1 /* Home */,
+				2DF8C7A92BC0085C00B4D9F1 /* Video */,
+				2DF8C7AA2BC0087100B4D9F1 /* Marketplace */,
+				2DF8C7AB2BC0089000B4D9F1 /* Game */,
+				2DF8C7B52BC009E700B4D9F1 /* Notification */,
+				2DF8C7AC2BC0089700B4D9F1 /* Menu */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		2DF8C79A2BBFD62F00B4D9F1 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				2DF8C79B2BBFD64100B4D9F1 /* Header.swift */,
+				2DF8C79E2BBFDD2F00B4D9F1 /* Home.swift */,
+				2DF8C7A02BBFE78F00B4D9F1 /* StoryCard.swift */,
+				2DF8C7A52BBFEE2F00B4D9F1 /* AddStoryRow.swift */,
+				2DF8C7A72BBFF8F000B4D9F1 /* Stories.swift */,
+				2DF8C7B82BC3A30E00B4D9F1 /* AddPostBar.swift */,
+				2DF8C7BC2BC3C9FC00B4D9F1 /* PostCard.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		2DF8C7A22BBFE7B300B4D9F1 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				2DF8C7A32BBFE7CC00B4D9F1 /* StoryModel.swift */,
+				2DF8C7BA2BC3C4D700B4D9F1 /* PostsModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		2DF8C7A92BC0085C00B4D9F1 /* Video */ = {
+			isa = PBXGroup;
+			children = (
+				2DF8C7AD2BC008CF00B4D9F1 /* Video.swift */,
+			);
+			path = Video;
+			sourceTree = "<group>";
+		};
+		2DF8C7AA2BC0087100B4D9F1 /* Marketplace */ = {
+			isa = PBXGroup;
+			children = (
+				2DF8C7AF2BC008FC00B4D9F1 /* Marketplace.swift */,
+			);
+			path = Marketplace;
+			sourceTree = "<group>";
+		};
+		2DF8C7AB2BC0089000B4D9F1 /* Game */ = {
+			isa = PBXGroup;
+			children = (
+				2DF8C7B12BC0092600B4D9F1 /* Game.swift */,
+			);
+			path = Game;
+			sourceTree = "<group>";
+		};
+		2DF8C7AC2BC0089700B4D9F1 /* Menu */ = {
+			isa = PBXGroup;
+			children = (
+				2DF8C7B32BC0094F00B4D9F1 /* Menu.swift */,
+			);
+			path = Menu;
+			sourceTree = "<group>";
+		};
+		2DF8C7B52BC009E700B4D9F1 /* Notification */ = {
+			isa = PBXGroup;
+			children = (
+				2DF8C7B62BC00A0600B4D9F1 /* Notification.swift */,
+			);
+			path = Notification;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,8 +363,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2DF8C7A12BBFE78F00B4D9F1 /* StoryCard.swift in Sources */,
+				2DF8C7BB2BC3C4D700B4D9F1 /* PostsModel.swift in Sources */,
+				2DF8C7B92BC3A30E00B4D9F1 /* AddPostBar.swift in Sources */,
+				2DF8C7A82BBFF8F000B4D9F1 /* Stories.swift in Sources */,
 				2DF8C7722BBFCFD200B4D9F1 /* ContentView.swift in Sources */,
+				2DF8C79C2BBFD64100B4D9F1 /* Header.swift in Sources */,
+				2DF8C7AE2BC008CF00B4D9F1 /* Video.swift in Sources */,
+				2DF8C7B02BC008FC00B4D9F1 /* Marketplace.swift in Sources */,
+				2DF8C7B42BC0094F00B4D9F1 /* Menu.swift in Sources */,
+				2DF8C7BD2BC3C9FC00B4D9F1 /* PostCard.swift in Sources */,
+				2DF8C7B72BC00A0600B4D9F1 /* Notification.swift in Sources */,
+				2DF8C7B22BC0092600B4D9F1 /* Game.swift in Sources */,
+				2DF8C7A62BBFEE2F00B4D9F1 /* AddStoryRow.swift in Sources */,
+				2DF8C79F2BBFDD2F00B4D9F1 /* Home.swift in Sources */,
 				2DF8C7702BBFCFD200B4D9F1 /* DemoSwiftFacebookUIApp.swift in Sources */,
+				2DF8C7A42BBFE7CC00B4D9F1 /* StoryModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -347,7 +467,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -404,7 +524,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -422,6 +542,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"DemoSwiftFacebookUI/Preview Content\"";
+				DEVELOPMENT_TEAM = H6D576J93K;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -429,6 +550,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -450,6 +572,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"DemoSwiftFacebookUI/Preview Content\"";
+				DEVELOPMENT_TEAM = H6D576J93K;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -457,6 +580,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
